@@ -1,0 +1,16 @@
+{
+	"name": "kminek/menu",
+	"type": "cakephp-plugin",
+	"description": "A CakePHP 2.0 plugin designed to help build menus in the controller and display them in the view",
+	"keywords": ["cakephp","menu"],
+	"homepage": "https://github.com/bmcclure/CakePHP-Menu-Plugin",
+	"authors": [
+		{
+			"name": "Ben McClure",
+			"homepage": "http://benmcclure.com/"
+		}
+	],
+	"require": {
+		"composer/installers": "*"
+	}
+}
